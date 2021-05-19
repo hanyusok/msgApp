@@ -23,3 +23,5 @@ https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcor
 https://jaeho0613.tistory.com/168
 
 https://docs.microsoft.com/en-us/advertising/shopping-content/code-example-authentication-oauth
+
+https://www.jerriepelser.com/blog/authenticate-oauth-aspnet-core-2/
