@@ -9,6 +9,7 @@ https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-
 https://jaeho0613.tistory.com/168
 
 https://www.nuget.org/packages/AspNet.Security.OAuth.KakaoTalk/
+dotnet add package AspNet.Security.OAuth.KakaoTalk --version 5.0.4
 
 https://kakao-tam.tistory.com/19
 
