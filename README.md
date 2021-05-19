@@ -20,3 +20,6 @@ dotnet new webapp -n kApp --auth SingleOrg --client-id f92ca1e808e4f3a5cfa5ee858
 
 https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-5.0&tabs=windows
 
+https://jaeho0613.tistory.com/168
+
+
