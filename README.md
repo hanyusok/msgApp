@@ -30,3 +30,5 @@ https://www.jerriepelser.com/blog/authenticate-oauth-aspnet-core-2/
 https://luckygg.tistory.com/309
 
 dotnet add package Microsoft.AspNet.WebApi.Cors --version 5.2.7
+
+https://kakao-tam.tistory.com/19
